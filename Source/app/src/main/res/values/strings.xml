@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hot Pages</string>
+    <string name="top10">Top 10</string>
+    <string name="top20">Top 20</string>
+    <string name="goToPage">Go to Page</string>
+    <string name="compare">Compare with Others</string>
+    <string name="pageInfo">Page Information</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
